@@ -1,4 +1,4 @@
-# Encrypt Secrets at rest in Kubernetes
+# Encrypt secrets at rest in kubernetes
 
 - Create a demo secret
     
