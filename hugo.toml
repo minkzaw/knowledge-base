@@ -1,4 +1,4 @@
-baseURL = 'https://minkzaw.github.io/knowledge-base'
+baseURL = 'https://kb.minkhantzaw.io'
 languageCode = 'en-us'
 title = 'Knowledge Base'
 theme = 'hugo-book'
